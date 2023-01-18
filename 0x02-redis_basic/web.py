@@ -1,5 +1,3 @@
-s (18 sloc)  642 Bytes
-
 #!/usr/bin/env python3
 """ Implementing an expiring web cache and tracker
     obtain the HTML content of a particular URL and returns it """
